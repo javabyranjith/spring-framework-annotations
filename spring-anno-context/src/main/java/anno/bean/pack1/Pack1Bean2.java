@@ -1,8 +1,8 @@
-package jbr.spring.anno.bean1.pack1;
+package anno.bean.pack1;
 
 import org.springframework.stereotype.Component;
 
 @Component
-public class SampleClass1 {
+public class Pack1Bean2 {
 
 }

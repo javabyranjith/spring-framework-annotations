@@ -1,4 +1,4 @@
-package jbr.spring.anno.bean;
+package anno.bean;
 
 import java.util.Arrays;
 

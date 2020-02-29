@@ -1,4 +1,4 @@
-package jbr.spring.anno.bean.pack1;
+package anno.bean.pack1;
 
 import org.springframework.stereotype.Component;
 
