@@ -1,0 +1,22 @@
+plugins {
+    id 'java-library'
+}
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+
+repositories {
+    jcenter()
+    mavenCentral()
+}
+
+dependencies {
+    compile('org.springframework:spring-core:5.0.7.RELEASE')
+    compile('org.springframework:spring-context:5.0.7.RELEASE')
+  
+    testCompile('org.springframework:spring-test:5.0.7.RELEASE')
+ 
+    api 'org.apache.commons:commons-math3:3.6.1'
+    implementation 'com.google.guava:guava:28.0-jre'
+    testImplementation 'junit:junit:4.12'
+}
