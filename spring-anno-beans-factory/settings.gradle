@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'spring-annotations-beans-factory'
+rootProject.name = 'spring-anno-beans-factory'
