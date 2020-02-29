@@ -7,4 +7,3 @@
 
 ### HOW TO RUN?
   1. BeanAnnoMain -> Run as Java Application
-  2. ComponetAnnoTest.java -> Run as Junit Test
