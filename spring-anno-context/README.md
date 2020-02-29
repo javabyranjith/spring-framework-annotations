@@ -1,9 +1,0 @@
-### TOOLS & TECHNOLOGIES
-  1. Eclipse/STS
-  2. Spring Framework
-
-### CONCEPTS/TOPICS COVERED
-  1. @Component Annotation
-
-### HOW TO RUN?
-  1. BeanAnnoMain -> Run as Java Application
