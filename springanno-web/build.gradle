@@ -9,7 +9,7 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 war {
-    baseName = 'spring-anno-web'
+    baseName = 'springanno-web'
     version = '1.0'
 }
 
@@ -30,7 +30,7 @@ dependencies {
 eclipse {
   wtp {
     component {
-      contextPath = 'spring-anno-web'
+      contextPath = 'springanno-web'
     }
   }
 }
